@@ -7,5 +7,5 @@ cask "streakbar" do
   desc "GitHub contributions chart in you menu bar"
   homepage "https://github.com/menubar-apps/StreakBar"
 
-  app "streakBar.app"
+  app "streak-bar.app"
 end
