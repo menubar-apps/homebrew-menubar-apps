@@ -1,6 +1,6 @@
 cask "jirabar" do
-  version "1.0"
-  sha256 "07d6fdb43d288e016f0ead6ce703dc4451c2eb9fd3b0a2d1c81a108c8c795d15"
+  version "1.2"
+  sha256 "7e66cd70f5f237dd1c7baf9cdfa83b9c56a6bcad02dfa95b6864e71861a83b48"
 
   url "https://github.com/menubar-apps/JiraBar/releases/download/v#{version}/jiraBar.#{version}.dmg"
   name "pullbar"
