@@ -1,6 +1,6 @@
 cask "jirabar" do
-  version "1.2"
-  sha256 "7e66cd70f5f237dd1c7baf9cdfa83b9c56a6bcad02dfa95b6864e71861a83b48"
+  version "1.3"
+  sha256 "c076b944af3761bfa5cf2a7d102702f4a861249f501625529e654b6707e3e64a"
 
   url "https://github.com/menubar-apps/JiraBar/releases/download/v#{version}/jiraBar.#{version}.dmg"
   name "jirabar"
