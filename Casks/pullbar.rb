@@ -8,4 +8,10 @@ cask "pullbar" do
   homepage "https://github.com/menubar-apps/PullBar"
 
   app "pullBar.app"
+
+  zap trash: [
+    "~/Library/Application Scripts/com.pavelmakhov.pullBar",
+    "~/Library/Application Support/com.apple.sharedfilelist/com.apple.LSSharedFileList.ApplicationRecentDocuments/com.pavelmakhov.pullbar.sfl*",
+    "~/Library/Containers/com.pavelmakhov.pullBar",
+  ]
 end
