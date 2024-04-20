@@ -8,4 +8,10 @@ cask "streakbar" do
   homepage "https://github.com/menubar-apps/StreakBar"
 
   app "streak-bar.app"
+
+  zap trash: [
+    "~/Library/Application Scripts/com.pavelmakhov.streak-bar",
+    "~/Library/Application Support/com.apple.sharedfilelist/com.apple.LSSharedFileList.ApplicationRecentDocuments/com.pavelmakhov.streak-bar.sfl*",
+    "~/Library/Containers/com.pavelmakhov.streak-bar",
+  ]
 end
