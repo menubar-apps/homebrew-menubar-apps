@@ -1,5 +1,5 @@
 cask "who-is-missing" do
-  version "1.0"
+  version "0.0"
   sha256 "0"
 
   url "https://github.com/menubar-apps/who-is-missing/releases/download/v#{version}/Who.s.Missing.#{version}.dmg"
