@@ -1,6 +1,6 @@
 cask "pullbar" do
-  version "1.11"
-  sha256 "2914c40611f0a5fe8eb934f2b9427b1ff08b274b0a9ffad236901dcbc21ce434"
+  version "1.12"
+  sha256 "1bfd6a3aef38329b8a3dbaf7d546e88506565b844315ad1e884320d8a1e73704"
 
   url "https://github.com/menubar-apps/PullBar/releases/download/v#{version}/pullBar.#{version}.dmg"
   name "pullbar"
