@@ -1,6 +1,6 @@
 cask "todobar" do
-  version "1.3"
-  sha256 "75703dcc9d5a2e728a3eb36eb336eaa3fca50bca9ef0c8205b88472b9ea03aea"
+  version "1.4"
+  sha256 "7265ca7cfb9d5d08ba7c3db4979efc133b078965ef4d3bdba8cfdfd8ae7ca6d5"
 
   url "https://github.com/menubar-apps/ToDoBar/releases/download/v#{version}/ToDoBar.#{version}.dmg"
   name "todobar"
