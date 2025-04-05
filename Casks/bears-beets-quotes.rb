@@ -1,5 +1,5 @@
 cask "bears-beets-quotes" do
-  version "89e9a7e28e2705af829af058b7410d4cc0456231dd7a1c087a8bfb77207a3f50.0"
+  version "1.0"
   sha256 "89e9a7e28e2705af829af058b7410d4cc0456231dd7a1c087a8bfb77207a3f50"
 
   url "https://github.com/menubar-apps/bears-beets-quotes/releases/download/v#{version}/Bears.Beets.Quotes.#{version}.dmg"
