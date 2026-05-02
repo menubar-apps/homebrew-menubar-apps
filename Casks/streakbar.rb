@@ -1,6 +1,6 @@
 cask "streakbar" do
-  version "1.3"
-  sha256 "9654ca91a8055b22ef6fa38bdfec15e954c478fc1831a518dcb47b4b33db5739"
+  version "1.4"
+  sha256 "2d27311ef16931070a921d2cd5e42e215eaa7be26577f9d9fe1b5e86334cc59e"
 
   url "https://github.com/menubar-apps/StreakBar/releases/download/v#{version}/StreakBar.#{version}.dmg"
   name "streakbar"
